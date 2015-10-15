@@ -9,7 +9,7 @@ Pour telecharger simplement **jekyll** :
 * ouvrir un terminal sous linux
 * ecrire en ligne de commande : "sudo apt-get install Jekyll"
 * L'installation se fait de suite  
-* Verifié si **RUBY** et **NodeJS** sont installés si non, faire la même manip que pour Jekyll
+* Verifié si **RUBY** et **NodeJS** sont installés si non, faire la même manip que pour Jekyll  
 ---
 Pour lancer un site :  
 le terminal ecrire   
