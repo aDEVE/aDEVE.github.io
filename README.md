@@ -1,42 +1,26 @@
-# aDEVE.github.io
-#readme.md
-### Installation de jekyll et ecriture de readme.md
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
----
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
-Pour telecharger simplement **jekyll** :
+## Getting Started
 
-* ouvrir un terminal sous linux
-* ecrire en ligne de commande : "sudo apt-get install Jekyll"
-* L'installation se fait de suite  
-* Verifié si **RUBY** et **NodeJS** sont installés si non, faire la même manip que pour Jekyll  
----
-Pour lancer un site :  
-le terminal ecrire   
-"$jekyll new myblog" _//creer un repertoire avec les fichiers html_  
-" $ cd myblog"  _//se dirige vers le dossier_  
-" jekyll serve" _//lance le serveur_   
-=> dans le navigateur  http://localhost:4000
----
-Installer GIT et gitpages 
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-* sudo apt-get install   
-* creation dans compte sur github 
-* git clone https://github.com/username/username.github.io 
-GitPage :  
-* cd username.github.io
+## Bugs and Issues
 
-* echo "Hello World" > index.html
-* git add --all
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
-* git commit -m "Initial commit"
+## Creator
 
-* git push -u origin master  
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-* git clone https://github.com/aDEVE/aDEVE.github.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
----
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+## Copyright and License
 
-
-Vers l'infini et au delà
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
